@@ -1,0 +1,31 @@
+.jumbotron {
+	background-size: cover;
+	background: url("../img/anziani.jpg") no-repeat center center;
+	color: #ffffff;
+}
+
+#title {
+	color: #00ccff;
+	font-size: 3em;
+}
+
+.box {
+	background-color: white;
+	opacity: 0.4;
+}
+
+.keybenefit {
+	font-size: 1em;
+	color: #000000;
+}
+
+#fraseffetto {
+	padding-top: 5em;
+	color: white;
+	text-align: center;
+	font-size: 2em;
+}
+
+.scarica {
+	margin-top: 2em;
+}
